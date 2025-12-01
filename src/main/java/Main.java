@@ -4,7 +4,7 @@ import java.sql.DriverManager;
 
 public class Main {
     public static void main() {
-        String url = "jdbc:postgresql://localhost:5432/final_proj_test";
+        String url = "jdbc:postgresql://localhost:5433/comp_3005_final_project";
         String user = "postgres";
         String password = "password";
 
